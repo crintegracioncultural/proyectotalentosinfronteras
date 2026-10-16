@@ -1,140 +1,101 @@
-# <p align="center">
-  <img src="assets/banner-github.png" alt="Banner Camila Rabelo" width="100%">
-</p>
+<div align="center">
 
-👋 ¡Hola! Soy Camila Rabelo
+# Talento sin Fronteras
 
-### Data Analyst | Applied AI | Web Development | CR — Camila Rabelo Integração Cultural | Data-driven solutions, digital innovation & cultural integration.
+### Guía de empleo, documentación y derechos laborales para extranjeros en España
 
-<p align="center">
-   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+[![Ver demo](https://img.shields.io/badge/Ver_demo-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black)](https://crintegracioncultural.github.io/talento_sin_fronteras/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
-🌍 **Español · Português · English**  
-📍 **Alicante, España**
+</div>
 
----
+<br>
 
-## 👩‍💻 Sobre mí
+## El problema
 
-Soy una profesional con más de **14 años de experiencia internacional** en administración, gestión y operaciones, habiendo desarrollado mi carrera en **Brasil, Italia, Portugal y España**.
+Llegar a España sin saber los pasos para tramitar la documentación, lo que implica navegar trámites dispersos entre distintas webs oficiales (NIE, TIE, Seguridad Social, homologación de títulos), sin una guía clara de qué hacer primero, cuáles son tus derechos laborales, o qué empresas realmente contratan talento internacional sin sesgos.
 
-Actualmente estoy enfocando mi trayectoria hacia el **Análisis de Datos** y la **Inteligencia Artificial Aplicada**, combinando mi experiencia de negocio con conocimientos técnicos en **SQL, Python, Power BI y desarrollo web**.
+Talento sin Fronteras centraliza esa información en una única plataforma interactiva, con un itinerario lógico paso a paso y herramientas de IA para aplicar lo aprendido directamente al CV y a la búsqueda de empleo.
 
-Disfruto creando soluciones digitales que ayudan a resolver problemas reales mediante el análisis de datos, la automatización y la tecnología.
+<br>
 
----
+## Stack técnico
 
-## 🏆 Certificaciones y Formación
+| Capa | Tecnología | Por qué |
+|---|---|---|
+| Estructura | HTML5 semántico | accesibilidad y SEO desde la base |
+| Estilos | CSS3 (secciones a medida) | control total del diseño sin dependencias |
+| Interactividad | JavaScript vanilla | navegación por pestañas, acordeones, módulos de IA |
+| IA | Módulos conversacionales integrados | consultor de visados, generador de CV, simulador de entrevistas |
+| Despliegue | GitHub Pages | hosting gratuito, sin backend necesario |
 
-*   **🎓 Programa de Formación Profesional (En Curso)**
-    *   **Carga horaria:** 460 horas (Teoría + Prácticas profesionales en empresa)
-    *   **Estado:** En progreso (Finalización y prácticas previstas para **Octubre 2026**)
-    *   **Enfoque:** Análisis de datos, Inteligencia Artificial aplicada y desarrollo web.
+<br>
 
-*   **📜 Introducción a la Inteligencia Artificial**
-    *   **Institución:** Fundación Somos F5 & Fundación Iberdrola (Proyecto *ImpulsIA*)
-    *   **Carga horaria:** 100 horas | **Fecha:** Mayo 2026
-    *   **Core Técnico:** Programación con Python, Análisis Exploratorio de Datos (EDA), Pandas, NumPy, Matplotlib, Seaborn, Machine Learning (Scikit-learn) y Redes Neuronales (Keras).
+## Estructura del proyecto
 
-*   **⚡ Itinerario Formativo de Descubrimiento Tecnológico**
-    *   **Institución:** Fundación Somos F5 & Fundación Iberdrola (Proyecto *ImpulsIA*)
-    *   **Carga horaria:** 8 horas | **Fecha:** Marzo 2026
-    *   **Contenidos:** Iniciación a la programación, introducción a la IA, introducción a la ciberseguridad y oportunidades del sector tecnológico.
+```
+talento_sin_fronteras/
+├── index.html
+├── css/
+│   └── styles.css
+├── js/
+│   ├── navegacion.js
+│   ├── consultor-ia.js       # chat del consultor de extranjería
+│   ├── generador-cv.js       # formulario + preview del CV ATS
+│   └── simulador-entrevistas.js
+├── img/
+└── docs/
+    └── screenshots/
+```
 
----
+<br>
 
-## 📑 Índice
+## Módulos principales
 
-- 🚀 Proyectos destacados
-- 🛠 Tecnologías
-- 📌 Cómo navegar este perfil
-- 📫 Contacto
+- **Guía paso a paso** — itinerario en 3 fases: regularización base (NIE, empadronamiento, Seguridad Social) → adaptación de CV a formato ATS → canales de búsqueda de empleo.
+- **Documentación y regularización** — explicación interactiva (tabs/acordeón) de NIE/TIE, Seguridad Social y homologación de títulos, diferenciando profesiones reguladas y no reguladas.
+- **Derechos laborales** — marco legal (Art. 14 CE, Estatuto de los Trabajadores, SMI) con enlaces directos a canales oficiales de denuncia (CEDRE, ITSS).
+- **Directorio de empresas inclusivas** — más de 30 empresas en España filtrables por sector, con su certificación o política de diversidad concreta.
+- **Herramientas con IA:**
+  - *Consultor de extranjería* — resuelve dudas sobre arraigo, renovación de NIE/TIE y regularización.
+  - *Generador de CV ATS* — toma los datos del usuario y devuelve una versión optimizada para sistemas de selección automatizados.
+  - *Simulador de entrevistas* — practica preguntas por perfil profesional (Analista de Datos, Desarrollador Web, Administración) con evaluación de la respuesta.
 
----
+<br>
 
-## 🚀 Proyectos destacados
+## Cómo correrlo localmente
 
-### 📊 Data Analyst Portfolio
-Portfolio con ejercicios y proyectos desarrollados durante mi formación en **Data Analyst + IA Aplicada**.
+```bash
+git clone https://github.com/crintegracioncultural/talento_sin_fronteras.git
+cd talento_sin_fronteras
+# al ser HTML/CSS/JS estático, basta con abrir index.html
+# o servirlo con un servidor local, por ejemplo:
+npx serve .
+```
 
-*   **🎯 Objetivo:** Aplicar SQL, Python y SQLite para responder preguntas de negocio, limpiar datos y obtener información útil para la toma de decisiones.
-*   **🛠 Tecnologías:** SQL, Python, Pandas, SQLite, Git & GitHub.
-*   🔗 **Repositorio:** [Data Analyst Portfolio](https://github.com/proyectotalentosinfronteras/data-analyst-portfolio)
+<br>
 
----
+## Despliegue
 
-### 🧭 Talento sin Fronteras
-Plataforma web para orientar a personas extranjeras que buscan empleo en España.
+El sitio se sirve directamente desde la rama principal vía GitHub Pages (Settings → Pages → rama `main` / carpeta raíz).
 
-*   **🎯 Objetivo:** Centralizar información sobre documentación, empleo y recursos oficiales, incorporando herramientas de IA para facilitar el proceso de inserción laboral.
-*   **🛠 Tecnologías:** HTML, CSS, JavaScript, IA aplicada, GitHub Pages.
-*   🔗 **Repositorio:** [Talento sin Fronteras](https://github.com/proyectotalentosinfronteras/talento_sin_fronteras) | 💻 **Demo en vivo:** [Ver proyecto](https://proyectotalentosinfronteras.github.io/talento_sin_fronteras/)
+<br>
 
----
+## Demo en vivo
 
-## 🌐 PresencIA
-Sitio web corporativo para ofrecer servicios de presencia online a pymes y autónomos.
+🔗 [crintegracioncultural.github.io/talento_sin_fronteras](https://crintegracioncultural.github.io/talento_sin_fronteras/)
 
-*   **🎯 Objetivo:** Ayudar a pequeños negocios a mejorar su visibilidad online mediante diseño web, redes sociales y posicionamiento SEO.
-*   **🛠 Tecnologías:** React, Vite, Tailwind CSS, GitHub Pages.
-*   🔗 **Repositorio:** [PresencIA](https://github.com/presenciaonlineprofesional/PresencIA) | 💻 **Demo en vivo:** [Ver proyecto](https://presenciaonlineprofesional.github.io/PresencIA/)
-
----
-
-## 🛠️ Tecnologías y herramientas
-
-| Área | Tecnologías |
-|------|-------------|
-| 📊 Análisis de datos | Python · Pandas · SQL · SQLite · Power BI |
-| 🌐 Desarrollo web | React · Vite · Tailwind CSS · HTML · CSS · JavaScript |
-| 🤖 IA aplicada | Streamlit · APIs de IA |
-| 🔧 Herramientas | Git · GitHub · GitHub Pages · Visual Studio Code |
-| 📈 Ofimática | Excel avanzado (tablas dinámicas, BUSCARX, dashboards) |
+<br>
 
 ---
 
-## 📌 Cómo navegar este perfil
+<div align="center">
 
-- Cada repositorio fijado (*pinned*) incluye su propio README con contexto técnico y capturas.
-- Los enlaces "Demo en vivo" llevan a la versión desplegada y funcional del proyecto.
-- Para revisar mi trayectoria profesional completa, mi CV y certificaciones están enlazados abajo.
+Proyecto desarrollado y mantenido por **Camila Rabelo de Amorim** · [LinkedIn](https://linkedin.com/in/camilarabeloamorim)
 
-## 🎯 Actualmente aprendiendo
+*Información orientativa de libre acceso. No sustituye asesoría legal profesional.*
 
-- 📊 Power BI avanzado
-- 🐍 Automatización con Python
-- 🤖 IA aplicada al análisis de datos
-- 📈 Visualización de datos y dashboards
-
-## 📫 Contacto
-
-- LinkedIn: [linkedin.com/in/camilarabeloamorim](https://linkedin.com/in/camilarabeloamorim)
-
----
-
-## 📈 Estadísticas de GitHub
-
-<table>
-  <tr>
-    <td width="50%">
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=proyectotalentosinfronteras&show_icons=true&theme=tokyonight"
-        width="100%"
-      />
-    </td>
-    <td width="50%">
-      <img
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=proyectotalentosinfronteras&layout=compact&theme=tokyonight"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+</div>
