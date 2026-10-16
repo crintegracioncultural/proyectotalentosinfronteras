@@ -4,7 +4,7 @@
 
 👋 ¡Hola! Soy Camila Rabelo
 
-### 📊 Data Analyst | 🤖 Applied AI | 🌐 Web Developer
+### Data Analyst | Applied AI | Web Development | CR — Camila Rabelo Integração Cultural | Data-driven solutions, digital innovation & cultural integration.
 
 <p align="center">
    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
